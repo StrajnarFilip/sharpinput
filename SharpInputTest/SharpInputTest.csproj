@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SharpInput\SharpInput.csproj" />
+  </ItemGroup>
+
 </Project>
