@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpInput", "SharpInput\SharpInput.csproj", "{71A7DE7D-0BF9-4C89-8DA4-4C570FE3CB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpInputTest", "SharpInputTest\SharpInputTest.csproj", "{F254622D-7E4C-4ED0-8FC9-F084928C3C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpInputConsoleApp", "SharpInputConsoleApp\SharpInputConsoleApp.csproj", "{78248D3C-5F56-4345-92FA-3097E2BBF1E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A7DE7D-0BF9-4C89-8DA4-4C570FE3CB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A7DE7D-0BF9-4C89-8DA4-4C570FE3CB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A7DE7D-0BF9-4C89-8DA4-4C570FE3CB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A7DE7D-0BF9-4C89-8DA4-4C570FE3CB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F254622D-7E4C-4ED0-8FC9-F084928C3C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F254622D-7E4C-4ED0-8FC9-F084928C3C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F254622D-7E4C-4ED0-8FC9-F084928C3C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F254622D-7E4C-4ED0-8FC9-F084928C3C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78248D3C-5F56-4345-92FA-3097E2BBF1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78248D3C-5F56-4345-92FA-3097E2BBF1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78248D3C-5F56-4345-92FA-3097E2BBF1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78248D3C-5F56-4345-92FA-3097E2BBF1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
